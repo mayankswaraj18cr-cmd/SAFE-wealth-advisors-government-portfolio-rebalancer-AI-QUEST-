@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.pytest_cache/
+*.py[cod]
+sec_compliance_audit.log
+.venv/
